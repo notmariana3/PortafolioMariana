@@ -1,0 +1,154 @@
+.hero {
+  background-color: #343434;
+}
+
+.hero h1{
+ color: #F5F0E8;
+}
+
+.hero p {
+color: #F5F0E8;
+}
+
+.hero1 {
+background-color: #F5F0E8;
+}
+
+.hero1 h1{
+  color: #74002a;
+}
+
+.hero1 p{
+  color: #343434;
+}
+
+.cv-wrap {
+  margin-top: -100px;
+}
+
+.section-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px;
+  letter-spacing: 2px;
+  color: #2C2A24;
+  margin: 0 0 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 20px;
+}
+
+.divider {
+  border: none;
+  border-top: 1.5px solid #C8C0B0;
+  margin: 1.2rem 0;
+}
+
+.name-block { margin-bottom: 0.5rem; }
+
+.name-big {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 52px;
+  letter-spacing: 3px;
+  color: #2C2A24;
+  line-height: 1;
+}
+
+.name-sub {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #4A7C5F;
+  margin-top: 4px;
+}
+
+.skill-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: #2C2A24;
+  color: #F5F0E8;
+  font-size: 13px;
+  font-weight: 600;
+  margin: 4px;
+  font-family: 'DM Sans', sans-serif;
+  margin-left: 20px;
+}
+
+.lang-row {
+  justify-content: space-between;
+  font-size: 13px;
+  padding: 4px 0;
+  border-bottom: 0.5px solid #D3D1C7;
+  margin-left: 20px;
+}
+
+.lang-row span:first-child { 
+  color: #444441; 
+}
+
+.lang-row span:last-child { 
+  font-weight: 500; 
+  color: #2C2A24; 
+}
+
+.edu-item { 
+  margin-bottom: 12px; 
+  margin-left: 20px;
+}
+
+.edu-title { 
+  font-weight: 500; 
+  font-size: 14px; 
+  color: #2C2A24; 
+}
+
+.edu-sub { 
+  font-size: 13px; 
+  color: #5F5E5A; 
+}
+
+.edu-years { font-size: 11px; 
+  color: #888780; 
+}
+
+.exp-item { 
+  margin-bottom: 16px;
+  margin-left: 20px; 
+}
+
+.exp-header {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.exp-years {
+  min-width: 80px;
+  font-size: 11px;
+  color: #888780;
+  letter-spacing: 0.5px;
+  padding-top: 2px;
+}
+
+.exp-role { 
+  font-size: 12px; 
+  font-weight: 500; 
+  color: #888780; 
+}
+
+.exp-company { 
+  font-size: 15px; 
+  font-weight: 500; 
+  color: #2C2A24; 
+}
+
+.exp-desc {
+  font-size: 13px;
+  color: #5F5E5A;
+  margin-top: 4px;
+  line-height: 1.5;
+}
